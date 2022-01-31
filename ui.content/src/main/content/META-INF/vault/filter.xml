@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/gap-nodeupdate" mode="merge"/>
+    <filter root="/content/gap-nodeupdate" mode="merge"/>
+    <filter root="/content/dam/gap-nodeupdate/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/gap-nodeupdate" mode="merge"/>
+</workspaceFilter>
